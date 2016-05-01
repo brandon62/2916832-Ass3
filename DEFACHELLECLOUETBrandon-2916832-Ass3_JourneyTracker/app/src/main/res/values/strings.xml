@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DEFACHELLECLOUETBrandon-2916832-Ass3_JourneyTracker</string>
+
+    <string name="start_tracking">START TRACKING</string>
+    <string name="stop_tracking">STOP TRACKING</string>
+
+    <string name="gps_active">GPS active</string>
+    <string name="gps_inactive">GPS inactive</string>
+
+    <string name="overall">Overall time: </string>
+    <string name="average">Average speed: </string>
+    <string name="speed">Current speed: </string>
+
+    <string name="action_settings">Settings</string>
+</resources>
